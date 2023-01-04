@@ -1,4 +1,7 @@
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
+<div>
+  <div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
+  </div>
 <h1 align="center">Hi 👋, I'm Rishabh Rai💛</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -25,3 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhrai03&show_icons=true&locale=en&layout=compact" alt="rishabhrai03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhrai03&show_icons=true&locale=en" alt="rishabhrai03" /></p>
+</div>
